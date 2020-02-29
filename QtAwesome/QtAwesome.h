@@ -27,7 +27,7 @@ namespace fas {
       unlink                       = 0xf127,
       tachometer                   = 0xf3fd,
       edit                         = 0xf044,
-      trash                        = 0xf1f8,
+      trash                        = 0xf2ed,
       share                        = 0xf14d,
       up                           = 0xf062,
       down                         = 0xf063

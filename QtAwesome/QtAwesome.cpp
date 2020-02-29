@@ -165,7 +165,7 @@ QtAwesome::QtAwesome( QObject* parent )
     setDefaultOption( "color-disabled", QColor(70,70,70,60));
     setDefaultOption( "color-active", QColor(10,10,10));
     setDefaultOption( "color-selected", QColor(10,10,10));
-    setDefaultOption( "scale-factor", 0.9 );
+    setDefaultOption( "scale-factor", 0.7 );
 
     setDefaultOption( "text", QVariant() );
     setDefaultOption( "text-disabled", QVariant() );
